@@ -11,3 +11,8 @@ http://blog.csdn.net/kkk0526/article/details/7214247
 http://blog.csdn.net/zgljl2012/article/details/44769043
 
 事务 beginTransaction  setTransactionSuccessful  endTransaction
+
+## 4.Top K问题算法
+http://blog.csdn.net/cslbupt/article/details/65935577
+
+MapReduce
